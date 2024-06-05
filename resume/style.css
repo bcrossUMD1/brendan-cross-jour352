@@ -1,7 +1,6 @@
-h1 {
-    font-size: 36px;
-}
-
-h1 {
-    color:#33485e
+BODY {
+    font-family: "Open Sans", arial, sans-serif;
+    font-size: 1em;
+    color:#444
+    font-weight:400;
 }
