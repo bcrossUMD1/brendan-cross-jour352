@@ -12,10 +12,11 @@ BODY {
     text-transform:uppercase;
     text-align:center;
     color:#33485e;
-    border: 1px #33485e;
+    border-bottom: 1px solid;
+    border-color: #33485e;
     width: 60%;
     min-width: 300px;
-    margin: "0 auto";
+    margin: 0 auto;
 }
 
 /*my title*/
@@ -26,28 +27,34 @@ strong {
 }
 
 /*sections*/
-h2 {
+.sectionheader {
     font-size: 1.5em;
     text-transform:uppercase;
     background-color:#33485e;
     color:#fff;
+    margin-bottom:10px;
+    margin-top:20px;
+    margin-left:0px;
+    margin-right:0px;
+    width:70%;
+    min-width:300px;
 }
 
 /*job titles*/
-h3 {
-    font-weight: 600px;
-    font-size:1.5em;
-}
-
-/*job organization*/
-h4 {
+.jobtitle {
     font-weight:600;
     font-size:1.5em;
 }
 
+/*job organization*/
+.organization {
+    font-weight:600;
+    font-size:1.25em;
+}
+
 /*job dates*/
-h5 {
-    text-transform:italic;
+.date {
+    font-style:italic;
     font-size:1em;
 }
 
