@@ -59,4 +59,13 @@ ul {
 
 li {
     margin:10px;
+    text-align:left;
+}
+
+blockquote {
+    font-size:20px;
+    background-color:lightgray;
+    margin:0 auto;
+    max-width:900px;
+    padding:25px;
 }
