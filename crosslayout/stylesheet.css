@@ -25,14 +25,38 @@
 p {
     font-family: Georgia, serif;
     font-size: 13px;
+    line-height:2em;
 }
 
 img {
     width:900px;
     height:575px;
+    margin:0 auto;
 }
 
 #date p {
 font-style:italic;
 }
 
+figure {
+    margin:0 auto;
+    padding-bottom:1em;
+    font-style:italic;
+}
+
+br {
+    margin:2.5em
+}
+
+h2 {
+    font-family:helvetica, sans-serif;
+    font-weight:100;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    margin:10px;
+}
