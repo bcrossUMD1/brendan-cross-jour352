@@ -35,7 +35,7 @@ p {
     font-family: helvetica, arial, sans-serif;
     font-size: 13px;
 }
-
+/*Image Styling*/
 figure {
     margin: 0 auto;
 }
@@ -46,4 +46,12 @@ figure img {
 
 figcaption {
     font-size: 11px;
+}
+
+blockquote {
+    font-size:18px;
+    background-color:lightgray;
+    margin:0 auto;
+    max-width:1000px;
+    padding:20px;
 }
