@@ -1,0 +1,49 @@
+#masthead {
+    font-size:100px;
+    color:green;
+    text-align:center;
+    background-color:pink;
+    margin: 0 auto;
+  }
+
+#content {
+    margin: 0 auto;
+    width:1000px;
+}
+
+#headline h1 {
+    font-family: georgia, times, serif;
+}
+
+#intro {
+    font-family: helvetica, arial, sans-serif;
+    font-size: 13px;
+    font-weight:600;
+}
+
+#byline {
+    font-family: helvetica, arial, sans-serif;
+    font-size: 12px;
+    font-style:italic;
+}
+
+.subheading h2 {
+    font-family: georgia, times, serif;
+}
+
+p {
+    font-family: helvetica, arial, sans-serif;
+    font-size: 13px;
+}
+
+figure {
+    margin: 0 auto;
+}
+
+figure img {
+    max-width: 1000px;
+}
+
+figcaption {
+    font-size: 11px;
+}
