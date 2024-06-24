@@ -1,0 +1,19 @@
+.nav-item {
+    font-size:20px;
+}
+#topper {
+    background-color:#E03A3E;
+    height:10em;
+}
+
+#name {
+    text-align:center;
+    color:#FFD520;
+    font-size:4em;
+}
+#title {
+    text-align:center;
+    color:#FFD520;
+    font-size:2em;
+    letter-spacing:5px;
+}
