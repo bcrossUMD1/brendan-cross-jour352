@@ -17,3 +17,47 @@
     font-size:2em;
     letter-spacing:5px;
 }
+
+img {
+    width:100%;
+}
+
+.col-md-8 p {
+    font-size: 20px;
+    padding-left:5px;
+}
+
+#topper-nav {
+    width:100%;
+}
+
+#content {
+    width:100%;
+}
+
+#container {
+    border-bottom:1px solid #E03A3E;
+}
+
+.row {
+    border-bottom: 2.5px solid #E03A3E;
+}
+
+.col-md-6 li {
+    font-size:18px;
+}
+
+ul {
+    list-style-type: none;
+    padding:10px;
+}
+
+h3 {
+    padding-left:5px;
+    font-size:40px;
+    color:#E03A3E;
+}
+
+.col-md-6 p {
+    font-size:14px;
+}
