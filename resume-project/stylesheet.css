@@ -1,3 +1,7 @@
+BODY {
+    font-family: "Open Sans", arial, sans-serif;
+}
+
 .nav-item {
     font-size:20px;
 }
@@ -36,14 +40,15 @@ img {
 }
 
 #container {
-    border-bottom:1px solid #E03A3E;
+    max-width:1400px;
+    margin:0 auto;
 }
 
 .row {
     border-bottom: 2.5px solid #E03A3E;
 }
 
-.col-md-6 li {
+li {
     font-size:18px;
 }
 
@@ -56,8 +61,14 @@ h3 {
     padding-left:5px;
     font-size:40px;
     color:#E03A3E;
+    text-decoration:underline;
 }
 
-.col-md-6 p {
-    font-size:14px;
+p {
+    font-size:16px;
+}
+
+.rowcopyright {
+    font-size:12px;
+    text-align:right;
 }
