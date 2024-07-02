@@ -1,0 +1,36 @@
+.headline {
+    font-size:3em;
+    font-weight:700;
+    text-align:center;
+    font-family: "Montserrat", sans-serif;
+}
+
+.byline {
+    font-size:1em;
+    text-transform:uppercase;
+    font-family: "Montserrat", sans-serif;
+    text-align:center;
+}
+
+p {
+    font-family:georgia, serif;
+    line-height:180%;
+}
+
+.chapter-headline {
+    font-size:2em;
+    font-weight:700;
+    font-family: "Montserrat", sans-serif;
+}
+
+figure {
+    text-align:center;
+}
+
+#footer {
+    color:white;
+    text-align:center;
+    background-color:black;
+    line-height:200%;
+    padding-top:20px;
+}
